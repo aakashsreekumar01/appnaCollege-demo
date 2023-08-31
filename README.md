@@ -1,3 +1,3 @@
 # appnaCollege-demo
-learnin git
+learning github
 Author - Aakash Sreekumar
